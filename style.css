@@ -1,12 +1,12 @@
 .cabeçalho_lista {
     background-color: rgb(112, 226, 112);
-    color: rgb(75, 75, 75);
+    color: rgb(0, 0, 0);
     display: flex;
     justify-content: space-around;
     align-items: center;
     padding: 24px 0;
     font-size: 24px;
-    font-style: Copperplate;
+    font-style: century-gothic;
     }
     
     .cabeçalho_imagem {
