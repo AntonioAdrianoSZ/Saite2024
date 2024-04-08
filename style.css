@@ -1,5 +1,5 @@
 .cabeçalho_lista {
-    background-color: green;
+    background-color: rgb(50, 204, 50);
     color: white;
     display: flex;
     justify-content: space-around;
@@ -9,7 +9,7 @@
     }
     
     .cabeçalho_imagem {
-    width: 40%;
+    width: 35%;
     height: 30%;
     }
     
